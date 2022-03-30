@@ -1,1 +1,1 @@
-# chroot-box86-wine-updater
+to update chroot-box86-wine project
